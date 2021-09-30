@@ -25,6 +25,12 @@
 /* Begin PBXFileReference section */
 		C81C4CD9270541F100CA84D0 /* El Saghira */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "El Saghira"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C81C4CDC270541F100CA84D0 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		C81C4CE42705424100CA84D0 /* Perfect Dark.rb */ = {isa = PBXFileReference; lastKnownFileType = text.script.ruby; path = "Perfect Dark.rb"; sourceTree = "<group>"; };
+		C81C4CE627060D2600CA84D0 /* install_ports.php */ = {isa = PBXFileReference; lastKnownFileType = text.script.php; path = install_ports.php; sourceTree = "<group>"; };
+		C81C4CE727060EBC00CA84D0 /* install_service.php */ = {isa = PBXFileReference; lastKnownFileType = text.script.php; path = install_service.php; sourceTree = "<group>"; };
+		C81C4CE82706101500CA84D0 /* Baron_Samedi.php */ = {isa = PBXFileReference; lastKnownFileType = text.script.php; path = Baron_Samedi.php; sourceTree = "<group>"; };
+		C81C4CEA2706121400CA84D0 /* Desert Temple.php */ = {isa = PBXFileReference; lastKnownFileType = text.script.php; path = "Desert Temple.php"; sourceTree = "<group>"; };
+		C81C4CEB2706168500CA84D0 /* Gold_Chamber.php */ = {isa = PBXFileReference; lastKnownFileType = text.script.php; path = Gold_Chamber.php; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +47,12 @@
 		C81C4CD0270541F100CA84D0 = {
 			isa = PBXGroup;
 			children = (
+				C81C4CE42705424100CA84D0 /* Perfect Dark.rb */,
+				C81C4CE727060EBC00CA84D0 /* install_service.php */,
+				C81C4CE82706101500CA84D0 /* Baron_Samedi.php */,
+				C81C4CEA2706121400CA84D0 /* Desert Temple.php */,
+				C81C4CEB2706168500CA84D0 /* Gold_Chamber.php */,
+				C81C4CE627060D2600CA84D0 /* install_ports.php */,
 				C81C4CDB270541F100CA84D0 /* El Saghira */,
 				C81C4CDA270541F100CA84D0 /* Products */,
 			);
